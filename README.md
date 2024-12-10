@@ -41,7 +41,7 @@ Made with the help of [Write your Own Virtual Machine](https://www.jmeiners.com/
 ## **Setup Instructions**
 
 **Clone the repository**:  
-<br/>git clone <https://github.com/your-username/lc3-emulator.git>
+<br/>git clone <https://github.com/Tani-shar/lc3-emulator.git>
 
 **Navigate to the project directory**:  
 <br/>cd lc3-emulator
